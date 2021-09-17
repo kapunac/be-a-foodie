@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/be-a-foodie/static/css/main.42a5228d.chunk.css",
+    "main.js": "/be-a-foodie/static/js/main.f9b6526b.chunk.js",
+    "main.js.map": "/be-a-foodie/static/js/main.f9b6526b.chunk.js.map",
+    "runtime-main.js": "/be-a-foodie/static/js/runtime-main.da263deb.js",
+    "runtime-main.js.map": "/be-a-foodie/static/js/runtime-main.da263deb.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/be-a-foodie/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.8cecef17.chunk.js": "/be-a-foodie/static/js/2.8cecef17.chunk.js",
+    "static/js/2.8cecef17.chunk.js.map": "/be-a-foodie/static/js/2.8cecef17.chunk.js.map",
+    "static/js/3.e23a80ac.chunk.js": "/be-a-foodie/static/js/3.e23a80ac.chunk.js",
+    "static/js/3.e23a80ac.chunk.js.map": "/be-a-foodie/static/js/3.e23a80ac.chunk.js.map",
+    "index.html": "/be-a-foodie/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/be-a-foodie/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.42a5228d.chunk.css.map": "/be-a-foodie/static/css/main.42a5228d.chunk.css.map",
+    "static/js/2.8cecef17.chunk.js.LICENSE.txt": "/be-a-foodie/static/js/2.8cecef17.chunk.js.LICENSE.txt",
+    "static/media/FullMeal.css": "/be-a-foodie/static/media/background.f35eea6e.jpg",
+    "static/media/logo.d63b9f18.jpg": "/be-a-foodie/static/media/logo.d63b9f18.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da263deb.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.8cecef17.chunk.js",
+    "static/css/main.42a5228d.chunk.css",
+    "static/js/main.f9b6526b.chunk.js"
+  ]
+}
